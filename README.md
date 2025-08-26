@@ -1,1 +1,1 @@
-# Clase_git
+Este es el ejercicio Github
